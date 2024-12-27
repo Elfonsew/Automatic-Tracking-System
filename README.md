@@ -4,11 +4,10 @@ Overview:
 This project integrates machine learning, computer vision, and mechanical systems to create an automated object-tracking system. Using YOLO (You Only Look Once) for object detection, the system tracks specific objects in real-time and adjusts its motorized hardware to follow targets.
 
 Files and Structure:
-- arduino/MoveStepper.ino: Arduino code for controlling the stepper motor.
-- python/: Contains Python code and dependencies for object detection.
-  - human_detection.py: Python script for YOLO-based object detection.
-  - requirements.txt: Lists the Python dependencies required for the project.
-- stl/Housing + Components.stl: STL file for 3D-printed housing and hardware components.
+- MoveStepper.ino: Arduino code for controlling the stepper motor.
+- human_detection.py: Python script for YOLO-based object detection.
+- requirements.txt: Lists the Python dependencies required for the project.
+- Housing + Components.stl: STL file for 3D-printed housing and hardware components.
 - LICENSE: License file specifying the project’s terms of use.
 
 Setup and Usage:
