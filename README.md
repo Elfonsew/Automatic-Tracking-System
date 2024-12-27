@@ -37,7 +37,7 @@ Demo:
 Watch the system in action: *INSERT LINK HERE*
 
 Documentation:
-Detailed documentation for this project is available here: [Link to e-portfolio]
+Detailed documentation and setup pictures for this project is available here: [Link to e-portfolio]
 
 Future Improvements:
 1. Implement edge computing using a Raspberry Pi for standalone functionality.
