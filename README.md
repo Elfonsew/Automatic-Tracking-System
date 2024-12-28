@@ -36,7 +36,7 @@ Demo:
 Watch the system in action: *INSERT LINK HERE*
 
 Documentation:
-Detailed documentation and setup pictures for this project is available here: [Link to e-portfolio]
+Detailed documentation and setup pictures for this project is available here: https://alfonso-custodio.b12sites.com/personal-projects
 
 Future Improvements:
 1. Implement edge computing using a Raspberry Pi for standalone functionality.
